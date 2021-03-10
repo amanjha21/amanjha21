@@ -13,7 +13,7 @@ I'm **Aman**, striving to become a strong developer and moving deep dive into th
 ### Languages:
 
 <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" height="48"> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" height="48"> &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" height="48"> &nbsp;<img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" height="48"> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" height="48">&nbsp;<img src="https://seeklogo.com/images/C/cloudinary-logo-91D46BA298-seeklogo.com.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" height="48"> &nbsp;<img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" height="48"> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" height="48">&nbsp;<img src="https://seeklogo.com/images/C/cloudinary-logo-91D46BA298-seeklogo.com.png" height="48"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png" height="48"/>
 
 
 ### Other tools or Skills:
