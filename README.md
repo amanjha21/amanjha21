@@ -8,7 +8,6 @@ I'm **Aman**, striving to become a strong developer and moving deep dive into th
 - 🌱 I’m currently learning [React](https://github.com/amanjha21/baat-chit-frontend).
 - 🌱 I’m currently working on [Baat Chit Realtime Group Chat App](https://github.com/amanjha21/baat-chit-backend).
 - 💬 Ask me about **Javascript**, **MERN Stack**, **C++**, **Science** and **Audio Editing**.
-- ⚡ Fun fact: Sounds stupid, but I look like a very serious guy in person.
 
 ### Languages:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" height="48">&nbsp;
